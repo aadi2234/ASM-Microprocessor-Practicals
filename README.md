@@ -48,6 +48,7 @@ The programs are written for the **Intel 8086 microprocessor** using **TASM**.
 
 ---
 
+---
 ##📁 Repository Structure
 8086-Microprocessor-Practicals/
 │
@@ -66,6 +67,7 @@ The programs are written for the **Intel 8086 microprocessor** using **TASM**.
 ├── MiniProjects/
 │   ├──  ALP to write a procedure for performing Basic Arithmetic operations
 └── README.md
+---
 
 ---
 ##📚 References
