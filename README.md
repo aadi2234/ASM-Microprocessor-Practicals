@@ -28,7 +28,7 @@ The programs are written for the **Intel 8086 microprocessor** using **TASM**.
 
 ---
 
-## 🚀 How to Run
+### 🚀 How to Run
 ### Using **EMU8086**
 1. Open the `.asm` file in EMU8086.
 2. Assemble the code (`Compile`).
@@ -50,36 +50,50 @@ The programs are written for the **Intel 8086 microprocessor** using **TASM**.
 
 ##📁 Repository Structure
 
-8086-Microprocessor-Practicals/
-   01_Addition_8bit.asm
-   02_Addition_16bit.asm
-   03_Subtraction_8bit.asm
-   04_Subtraction_16bit.asm
-   05_Multiplication_8bit.asm
-   06_Multiplication_16bit.asm
-   07_Division_8bit.asm
-   08_Division_16bit.asm
-   09_Sum_of_Array.asm
-   10_Square.asm
-   11_Cube.asm
+8086-Microprocessor-Practicals/  
+
+   01_Addition_8bit.asm  
+   
+   02_Addition_16bit.asm  
+   
+   03_Subtraction_8bit.asm  
+   
+   04_Subtraction_16bit.asm  
+   
+   05_Multiplication_8bit.asm  
+   
+   06_Multiplication_16bit.asm  
+   
+   07_Division_8bit.asm  
+   
+   08_Division_16bit.asm  
+   
+   09_Sum_of_Array.asm  
+   
+   10_Square.asm  
+   
+   11_Cube.asm  
 
 MiniProjects/
+
    ALP to write a procedure for performing Basic Arithmetic operations
+   
 README.md
 ---
 
----
-##📚 References
 
+###📚 References
   - Microprocessor Architecture, Programming, and Applications with the 8086 – Ramesh S. Gaonkar
   - Intel 8086 Instruction Set Reference
   - EMU8086 Documentation
 ---
 
-##👨‍💻 Author
+###👨‍💻 Author
 
 **Aditya Dhakane**
+
 Diploma in Computer Technology |  Artificial Intelligence and Data Science (AI & DS)
+
 Passionate about Assembly Language, Microprocessors, and Low-Level Programming.
 ---
 
