@@ -50,6 +50,7 @@ The programs are written for the **Intel 8086 microprocessor** using **TASM**.
 
 ---
 ##📁 Repository Structure
+
 8086-Microprocessor-Practicals/
 │
 ├── 01_Addition_8bit.asm
@@ -71,12 +72,14 @@ The programs are written for the **Intel 8086 microprocessor** using **TASM**.
 
 ---
 ##📚 References
+
   - Microprocessor Architecture, Programming, and Applications with the 8086 – Ramesh S. Gaonkar
   - Intel 8086 Instruction Set Reference
   - EMU8086 Documentation
 ---
 
 ##👨‍💻 Author
+
 **Aditya Dhakane**
 Diploma in Computer Technology |  Artificial Intelligence and Data Science (AI & DS)
 Passionate about Assembly Language, Microprocessors, and Low-Level Programming.
