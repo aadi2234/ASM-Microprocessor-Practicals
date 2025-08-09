@@ -77,24 +77,25 @@ The programs are written for the **Intel 8086 microprocessor** using **TASM**.
 MiniProjects/
 
    ALP to write a procedure for performing Basic Arithmetic operations
-   
 README.md
+
 ---
 
+## 📚 References
 
-###📚 References
   - Microprocessor Architecture, Programming, and Applications with the 8086 – Ramesh S. Gaonkar
   - Intel 8086 Instruction Set Reference
   - EMU8086 Documentation
 ---
 
-###👨‍💻 Author
+## 👨‍💻 Author
+---
 
 **Aditya Dhakane**
 
 Diploma in Computer Technology |  Artificial Intelligence and Data Science (AI & DS)
-
 Passionate about Assembly Language, Microprocessors, and Low-Level Programming.
+
 ---
 
 **Thank u for Visiting !!!**
